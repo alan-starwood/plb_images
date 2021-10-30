@@ -24,3 +24,10 @@ news/html/images/*.gif
 news/html/images/bb_cards/
 news/html/images/hof/
 news/html/images/wpa/
+page_links/
+replays/
+settings/
+temp/
+templates/
+*.splus
+
